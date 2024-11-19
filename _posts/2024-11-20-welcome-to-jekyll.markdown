@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! 제목"
+title:  "안녕하세요.
+         프론트엔드 개발자 송준한입니다."
 date:   2024-11-20 01:57:47 +0900
 categories: jekyll update
 ---
