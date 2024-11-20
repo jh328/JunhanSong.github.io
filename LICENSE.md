@@ -11,7 +11,8 @@ sitemap: false
 ## GNU GENERAL PUBLIC LICENSE
 {:.no_toc}
 
-Version 3, 29 June 2007
+Version 3, 29 June 2007 
+footer에 있는 라이선스는 여기에 있는 것 같다.
 
 Copyright (C) 2007 Free Software Foundation, Inc.
 <http://fsf.org/>
