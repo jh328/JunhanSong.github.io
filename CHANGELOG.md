@@ -1117,7 +1117,7 @@ Aug 10 2017
 * Fixed sending incorrect paths to Google Analytics.
   In previous versions, Hydejack would always send the URL of the initial page for all subsequent page views.
   Thanks [@dannydwarren](https://twitter.com/dannydwarren) for pointing this out.
-* Fixed `taglineadsfasdf` not showing up in the title.
+* Fixed `tagline` not showing up in the title.
 
 ## v6.6.0
 Aug 7 2017
@@ -1224,14 +1224,6 @@ Note that you have to replace `/hydejack` with your `baseurl`.
 
 To restore the old sidebar, open (or create) `_sass/my-inline.scss` and add the following:
 
-~~~css
-@media screen {
-    .sidebar-sticky {
-        left: 2rem;
-        max-width: none;
-    }
-}
-~~~
 
 To remove the border radius, open (or create) `_sass/my-inline.scss` and add the following:
 
