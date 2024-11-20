@@ -1227,7 +1227,7 @@ To restore the old sidebar, open (or create) `_sass/my-inline.scss` and add the 
 ~~~css
 @media screen {
     .sidebar-sticky {
-        left: 2rem;
+        left: 20rem;
         max-width: none;
     }
 }
