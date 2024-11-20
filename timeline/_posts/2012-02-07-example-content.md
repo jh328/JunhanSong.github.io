@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Example Content
+title: Timeline Content
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+    고등학교 2학년 늦은 나이에 Mozart Flute Concerto no.1에 빠져 플룻이라는 악기를 시작을 하게 됐습니다. 늦게 시작한 만큼, 쉬지 않고, 잠을 줄여 연습을 해서 대학교에 입학을 하게 됐습니다. 
 sitemap: false
 hide_last_modified: true
 ---
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
