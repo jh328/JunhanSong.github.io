@@ -6,9 +6,7 @@ title:  "안녕하세요.
 date:   2024-11-20 01:57:47 +0900
 categories: jekyll update
 ---
-<p>파이널 프로젝트에서 처음 경험한 프론트엔드의 매력에 빠져, UI/UX에 대한 관심이 생겼습니다.</p>
-<p>사용자들에게 쉽게 활용할 수 있는 인터페이스를 만들고자 하는 목표를 가지고 성장하는 개발자가 되겠습니다.</p>
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<p>파이널 프로젝트에서 처음 경험한 프론트엔드의 매력에 빠져, UI/UX에 대한 관심이 생겼습니다. 사용자들에게 쉽게 활용할 수 있는 인터페이스를 만들고자 하는 목표를 가지고 성장하는 개발자가 되겠습니다.</p>
 
 Jekyll requires blog post files to be named according to the following format:
 
