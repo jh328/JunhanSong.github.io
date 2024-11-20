@@ -10,3 +10,4 @@ sitemap: false
 ![한국사 자격증](assets/img/certification/인증서발급-1.png)
 
 ### 네이버 데브옵스 클라우드 수료 2024.11.11
+![수료증](assets/img/certification/직업훈련이력 확인원-1.png)
