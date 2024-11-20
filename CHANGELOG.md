@@ -1225,7 +1225,12 @@ Note that you have to replace `/hydejack` with your `baseurl`.
 To restore the old sidebar, open (or create) `_sass/my-inline.scss` and add the following:
 
 ~~~css
-@media screen { .sidebar-sticky { left: 2rem; max-width: none; } }
+@media screen {
+    .sidebar-sticky {
+        left: 2rem;
+        max-width: none;
+    }
+}
 ~~~
 
 To remove the border radius, open (or create) `_sass/my-inline.scss` and add the following:
@@ -1237,7 +1242,7 @@ To remove the border radius, open (or create) `_sass/my-inline.scss` and add the
 ## v6.4.1
 Jun 23 2017
 {:.heading.post-date}
-
+``
 * Fix invalid color hex
 
 ## v6.4.0
