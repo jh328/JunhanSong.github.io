@@ -32,7 +32,7 @@ description: >
 tagline: 안녕하세요 본질에 집중하는 프론트엔드 개발자 송준한입니다.
 
 # A list of keywords for your blog
-keywords: [ ]
+keywords: [키워드는 어떤걸 말하는거지..? ]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -49,7 +49,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: 발자취
+  - title: Timeline
     url: /example/
   - title: SKILLS
     url: /docs/
@@ -59,12 +59,12 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title: LICENSE 이것도 바탕화면 첫번째? 제발
+  - title: Certification
     url: /LICENSE/
-  - title: NOTICE
-    url: /NOTICE/
-  - title: CHANGELOG
-    url: /CHANGELOG/
+  #- title: NOTICE 우선 빼버리기
+  #  url: /NOTICE/
+  #- title: CHANGELOG
+  #  url: /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: © 2024. Jun Han Song. All rights reserved.
