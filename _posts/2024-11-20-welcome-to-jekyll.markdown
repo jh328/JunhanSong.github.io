@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "안녕하세요.프론트엔드 개발자 송준한입니다."
-date:   2024-11-20 01:57:47 +0900
-categories: 
+title: "안녕하세요.프론트엔드 개발자 송준한입니다."
 ---
 
+<p>파이널 프로젝트에서 처음 경험한 프론트엔드의 매력에 빠져, UI/UX에 대한 관심이 생겼습니다.
+사용자들에게 쉽게 활용할 수 있는 인터페이스를 만들고자 하는 목표를 가지고 성장하는 개발자가 되겠습니다.</p>
 
 <article>
   <header>
-    <h1>프론트엔드 첫 경험 : 파이널 프로젝트의 여정 </h1>
-    <time datetime="2024-11-20T01:57:47+09:00">2024년 11월 20일</time>
+    <h2>프론트엔드 첫 경험 : 파이널 프로젝트의 여정 </h2>
+    <time datetime="2024-11-20T01:57:47+09:00">2024년 11월 11일</time>
   </header>
 
   <section>
@@ -96,6 +96,7 @@ categories:
     <p>긴 글 읽어주셔서 감사합니다.</p>
   </footer>
 </article>
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
