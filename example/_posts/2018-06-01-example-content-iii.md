@@ -1,9 +1,15 @@
 ---
 layout: post
-title: 대학교 졸업 후, 경찰이 되겠다는 마음을 갖고 노량진 생활 
+title: 대학교 졸업 후, 경찰이 되겠다는 마음을 갖고 노량진 생활
 description: >
-      대학교를 졸업한 후 경찰 공무원이 되기 위해 노량진에서 생활하며 시험 준비를 시작했습니다. 
+  대학교를 졸업한 후 경찰 공무원이 되기 위해 노량진에서 생활하며 시험 준비를 시작했습니다.
   그러나 더 넓은 세상에서 실질적인 도움을 줄 방법을 고민하며, 개발자로의 길을 선택하게 되었습니다.
+image: 
+  path: /assets/img/blog/example-content-iii.jpg
+  srcset:
+    1060w: /assets/img/blog/example-content-iii.jpg
+    530w:  /assets/img/blog/example-content-iii@0,5x.jpg
+    265w:  /assets/img/blog/example-content-iii@0,25x.jpg
 related_posts:
   - example/_posts/2017-11-23-example-content-ii.md
   - /example/2012-03-02-about-content/
@@ -52,6 +58,7 @@ sitemap: false
     </p>
   </div>
 </body>
+
 
 [mm]: https://guides.github.com/features/mastering-markdown/
 [ksyn]: https://kramdown.gettalong.org/syntax.html
