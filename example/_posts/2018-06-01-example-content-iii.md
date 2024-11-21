@@ -4,9 +4,6 @@ title: 2022.02.18 대학교 졸업 후, 경찰이 되겠다는 마음을 갖고 
 description: >
   대학교를 졸업한 후 경찰 공무원이 되기 위해 노량진에서 생활하며 시험 준비를 시작했습니다.
   그러나 더 넓은 세상에서 실질적인 도움을 줄 방법을 고민하며, 개발자로의 길을 선택하게 되었습니다.
-related_posts:
-  - example/_posts/2017-11-23-example-content-ii.md
-  - /example/2012-03-02-about-content/
 sitemap: false
 ---
 
