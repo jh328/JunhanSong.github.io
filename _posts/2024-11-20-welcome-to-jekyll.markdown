@@ -63,9 +63,6 @@ categories:
     </blockquote>
   </section>
 
-  <footer>
-    <p>Written by 송준한</p>
-  </footer>
 </article>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
