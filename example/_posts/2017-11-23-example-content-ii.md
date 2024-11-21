@@ -1,130 +1,29 @@
 ---
 layout: post
-title: Example Content II
+title: Timeline Content II
 description: >
-  A page showing how regular markdown content is styled in Hydejack.
-image: /assets/img/blog/example-content-ii.jpg
+  국립경찰교향악단에 합격
 sitemap: false
 ---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-There should be whitespace between paragraphs.
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
-* toc
-{:toc .large-only}
-
-## Header 2
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-### Header 3
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists
-
-Name
-: Godzilla
-
-Born
-: 1952
-
-Birthplace
-: Japan
-
-Color
-: Green
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. Or is it?
-```
-
-```
-The final element.
-```
+<body>
+  <div class="timeline">
+    <h2>2017년: 태풍을 뚫고 이루어낸 군악대의 꿈</h2>
+    <p>
+      <strong>22살 대한민국 남성</strong>으로, 병역의 의무를 준비하던 중 <em>클래식 악기를 전공</em>한 저는 <strong>군악대</strong>를 목표로 삼았습니다.
+    </p>
+    <p>
+      하지만 군악대의 문턱은 <strong>높았고</strong>, 시험 준비 과정에서 예상치 못한 <strong>어려움</strong>도 마주했습니다.
+    </p>
+    <ul>
+      <li>시험 기간 중 태풍이 왔지만, <strong>악천후를 뚫고 연습실</strong>로 향했습니다.</li>
+      <li>매일매일 <strong>연습에 몰두</strong>하며 실력을 갈고닦았습니다.</li>
+    </ul>
+    <p>
+      그 결과, 치열한 경쟁 속에서 <strong>시험에 합격</strong>하여 <strong>군악대에 입대</strong>하는 영광을 얻게 되었습니다.
+    </p>
+    <p>
+      이 경험은 <em>목표를 향한 열정과 끈기</em>를 배울 수 있었던 <strong>소중한 시간</strong>이었습니다.
+    </p>
+  </div>
+</body>
