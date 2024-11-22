@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Documentation 원래 도큐멘테이션 페이지 이름 
 description: >
     Main Skills
 hide_description: true
