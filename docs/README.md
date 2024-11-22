@@ -8,7 +8,7 @@ sitemap: false
 permalink: /docs/
 ---
 
-![사용할 수 있ㅎㅎ는 기술](assets/img/skill/figma.png)
+![사용할 수 있는 기술](assets/img/skill/figma_skill.png)
 
 
 
