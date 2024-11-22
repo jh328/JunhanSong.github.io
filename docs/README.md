@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Documentation 원래 도큐멘테이션 페이지 이름 
+title: SKILLS
 description: >
     Main Skills
 hide_description: true
 sitemap: false
 permalink: /docs/
 ---
+
+![사용할 수 있ㅎㅎ는 기술](assets/img/skill/figma.png)
+
 
 
 
