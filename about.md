@@ -8,13 +8,18 @@ hide_description: true
 redirect_from:
   - /download/
 ---
-여기가 PROJECTS 누르면 나오는 페이지
+
 # About
 
 <!--author-->
 
 ## Hydejack
 
+A boutique Jekyll theme for hackers, nerds, and academics.  
+{:.lead}
+
+1. this list will be replaced by the toc
+{:toc .large-only}
 
 ![Screenshot](/assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
