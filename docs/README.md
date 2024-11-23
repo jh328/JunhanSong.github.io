@@ -8,15 +8,8 @@ sitemap: false
 permalink: /docs/
 ---
 
-![사용할 수 있는 기술](assets/img/skill/figma_skill.png)
-![사용할 수 있는 기술2](assets/img/skill/skill.plz.png)
-
----
-
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-
-While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
-{:.note}
+![사용할 수 있는 기술]({{ site.baseurl }}/assets/img/skill/figma_skill.png)
+![사용할 수 있는 기술2]({{ site.baseurl }}/assets/img/skill/skill.plz.png)
 ## Getting started
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
