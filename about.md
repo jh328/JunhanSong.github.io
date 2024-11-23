@@ -11,6 +11,9 @@ redirect_from:
 
 # BiDay PROJECTS
 
+![mainPage](assets/img/projects/mainPage.png)
+
+
 
 [blog]: /
 [portfolio]: https://hydejack.com/examples/
