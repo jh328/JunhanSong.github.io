@@ -15,7 +15,7 @@ sitemap: false
 
 # X Marks the Spot in Hydejack 9.2
 ## New Social Media Icons
-
+여기가 X Marks the Spot in Hydejack 9.2 페이지임. 
 Lots of things have changed in the world of social media since the last release. To bring Hydejack up to date, the default logo for Twitter has changed:
 
 <span class="icon-twitter-old"></span> → <span class="icon-twitter"></span>
